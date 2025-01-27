@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Bilan}{1}{}%
+\contentsline {section}{\numberline {2}Points délicats}{2}{}%
+\contentsline {section}{\numberline {3}Limitations}{3}{}%
+\contentsline {section}{\numberline {4}Tests}{3}{}%
+\contentsline {subsection}{\numberline {4.1}Stratégie de test pour Makethread}{3}{}%
+\contentsline {subsection}{\numberline {4.2}Stratégie de test pour threadsArgument}{4}{}%
+\contentsline {subsection}{\numberline {4.3}Stratégie de test pour threadGet}{4}{}%
+\contentsline {subsection}{\numberline {4.4}Stratégie de test pour ProducerConsumer}{4}{}%
